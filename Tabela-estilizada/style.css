@@ -1,0 +1,20 @@
+.cabecalho-moda {
+    background-color: #BB86FC;
+
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
+
+.valores {
+    background-color: #424250;
+    
+}
+
+.cabecalho-moda,
+.cabecalho-casa,
+.valores {
+    color: white;
+    padding: 5px 10px;
+}
